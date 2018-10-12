@@ -1,0 +1,7 @@
+C:\Users\nikit\source\repos\ModulGraph\ModulGraph\bin\Debug\ModulGraph.exe.config
+C:\Users\nikit\source\repos\ModulGraph\ModulGraph\bin\Debug\ModulGraph.exe
+C:\Users\nikit\source\repos\ModulGraph\ModulGraph\bin\Debug\ModulGraph.pdb
+C:\Users\nikit\source\repos\ModulGraph\ModulGraph\obj\Debug\ModulGraph.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\ModulGraph\ModulGraph\obj\Debug\ModulGraph.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\ModulGraph\ModulGraph\obj\Debug\ModulGraph.exe
+C:\Users\nikit\source\repos\ModulGraph\ModulGraph\obj\Debug\ModulGraph.pdb
